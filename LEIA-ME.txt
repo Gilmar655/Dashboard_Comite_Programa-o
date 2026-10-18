@@ -1,0 +1,1 @@
+Abra index.html em qualquer navegador. Funciona offline. Para compartilhar por link publico, publique no GitHub Pages. A base de dados e estatica.
