@@ -1,0 +1,72 @@
+﻿Projeto;Descrição do Projeto;Data Programacao;Status Programacao;Tipo Intervencao;Numero PowerON;Equipamentos;Regiao;CHI;Horario Inicio;Horario Fim;Contratada;Solicitar viabilidade Gerador;Observação_1;Observação_2;Decisão Comitê
+DAC/A.LES.26.01189;Migração para Média Tensão;08/11/2026;Liberado para Documentação;PIE;;353ET037961;LES;192;10:00;14:00;Conecta Obras Extras (Área 8B, 9 e 11) NEC;;;;NÃO
+DAC/A.LES.25.01112;Remoção de Poste;08/11/2026;Liberado para Documentação;FI;;353ET037967;LES;184;10:00;14:00;Conecta Obras Extras (Área 8B, 9 e 11) NEC;;;;NÃO
+DAC/A.LES.26.01203;Ligação Nova;08/11/2026;Liberado para Documentação;PIE;;353ET171440;LES;3744;10:00;14:00;Conecta Obras Extras (Área 8B, 9 e 11) NEC;VIABILIZAR INSTALAÇÃO DE GERADOR;;;SIM - COMITÊ
+DAC/A.LES.25.00259;Ligação Nova;09/11/2026;Liberado para Documentação;FI;;356ET043249;LES;2;08:30;10:30;Start Engenharia (Área 8B, 9  e 11) NEC;;;;NÃO
+DAC/A.LES.26.00872;Ligação Nova;09/11/2026;Liberado para Documentação;FI;;353ET170607;LES;78;09:30;16:30;Start Engenharia (Área 8B, 9  e 11) NEC;;;;NÃO
+DMP/A.LES.25.07276;Reforma de Rede Secundaria RTRI;09/11/2026;Pendente de Aprovação;FI;;352ET093373;LES;492;09:30;13:30;Start Engenharia (Área 8B, 9  e 11) NEC;;;;NÃO
+DAC/A.LES.25.00607;Ligação Nova;09/11/2026;Liberado para Documentação;FI;;015ET008238;LES;388;09:50;13:50;Start Engenharia (Área 8B, 9  e 11) NEC;;;;NÃO
+DMP/A.LES.26.01048;Rede Compacta;09/11/2026;Liberado para Documentação;PIE;;356ET160992;LES;564;10:00;14:00;Engelmig (Área 11) NEC e UPS;;;;NÃO
+DMP/A.LES.26.01049;Rede Compacta;09/11/2026;Liberado para Documentação;PIE;;356ET160992;LES;564;10:00;14:00;Engelmig (Área 11) NEC e UPS;;;;NÃO
+DAC/A.ABC.26.00404;Ligação Nova;09/11/2026;Liberado para Documentação;FI;;010ET008373;ABC;184;10:00;14:00;Start Engenharia (Área 8B, 9  e 11) NEC;;;;NÃO
+DMP/A.ABC.26.02858;Substituição de RA e CA;09/11/2026;Pendente de Aprovação;FI;;035ET068604;ABC;312;10:00;14:00;Start Engenharia (Área 8B, 9  e 11) NEC;;;;NÃO
+DMP/A.LES.20.06363;Reforma de Rede Secundária;09/11/2026;Liberado para Documentação;FI;;356ET005950;LES;784;10:00;14:00;Start Engenharia (Área 8B, 9  e 11) NEC;;;;NÃO
+DMP/A.LES.25.01213;Substituição de Poste em Mau Estado;10/11/2026;Liberado para Documentação;FI;;356ET052574;LES;2536;00:30;04:30;Start Engenharia (Área 8B, 9  e 11) NEC;VIABILIZAR INSTALAÇÃO DE GERADOR;;;SIM - COMITÊ
+DMP/A.LES.24.01686;Substituição de Poste em Mau Estado;10/11/2026;Liberado para Documentação;FI;;015ET221473;LES;1941;09:30;12:30;Start Engenharia (Área 8B, 9  e 11) NEC;VIABILIZAR INSTALAÇÃO DE GERADOR;GERADORES BF036959 E BF036958;;SIM - COMITÊ
+DMP/A.LES.26.02006;Reforma de Rede Secundaria RTRI;10/11/2026;Liberado para Documentação;FI;;352ET055432;LES;414;09:30;12:30;Start Engenharia (Área 8B, 9  e 11) NEC;;;;NÃO
+DMP/A.LES.26.03366;Rede Compacta;10/11/2026;Liberado para Documentação;PIE;;356BF041141;LES;4192;10:00;14:00;Engelmig (Área 11) NEC e UPS;VIABILIZAR INSTALAÇÃO DE GERADOR;;;SIM - COMITÊ
+DMP/A.LES.26.01962;Rede Compacta;10/11/2026;Liberado para Documentação;PIE;;356BF041141;LES;4192;10:00;14:00;Engelmig (Área 11) NEC e UPS;;;;SIM - COMITÊ
+DMP/A.LES.26.00781;Substituição de RA e CA;10/11/2026;Liberado para Documentação;FI;;015ET082628;LES;176;10:00;14:00;Start Engenharia (Área 8B, 9  e 11) NEC;;;;NÃO
+DAC/A.LES.22.00573;Alteração de Carga;10/11/2026;Liberado para Documentação;FI;;355ET031355;LES;66;10:00;13:00;Start Engenharia (Área 8B, 9  e 11) NEC;;;;NÃO
+DMP/A.LES.25.07406;Reforma de Rede Secundaria RTRI;10/11/2026;Pendente de Aprovação;FI;;352ET047074;LES;3520;10:00;14:00;Start Engenharia (Área 8B, 9  e 11) NEC;Atualização cadastral ET 047074;;;SIM - COMITÊ
+DMP/A.LES.25.07604;Segurança Operativa;10/11/2026;Liberado para Documentação;FI;;010ET012194;LES;390;10:00;12:00;Start Engenharia (Área 8B, 9  e 11) NEC;;;;NÃO
+DAC/A.LES.25.00141;Afastamento de Rede (Clientes);10/11/2026;Liberado para Documentação;FI;;020ET228935;LES;114;13:00;16:00;Start Engenharia (Área 8B, 9  e 11) NEC;;;;NÃO
+DAC/A.LES.26.01167;Ligação Nova;10/11/2026;Liberado para Documentação;FI;;352ET025637;LES;400;14:00;16:00;Start Engenharia (Área 8B, 9  e 11) NEC;;;;NÃO
+DAC/A.LES.25.01251;Migração para Média Tensão;10/11/2026;Liberado para Documentação;FI;;356ET160514;LES;1182;14:00;17:00;Start Engenharia (Área 8B, 9  e 11) NEC;;;;NÃO
+DAC/A.LES.25.00749;Alteração de Carga;11/11/2026;Liberado para Documentação;PIE;;353ET053245;LES;4168;00:30;04:30;Start Engenharia (Área 8B, 9  e 11) NEC;VIABILIZAR INSTALAÇÃO DE GERADOR;VERIFICAR historico reprova gerador;;SIM - COMITÊ
+DMP/A.LES.24.05264;Substituição de Poste em Mau Estado;11/11/2026;Liberado para Documentação;PIE;;010ET220437;LES;0;10:00;14:00;Start Engenharia (Área 8B, 9  e 11) NEC;VIABILIZAR INSTALAÇÃO DE GERADOR;;;NÃO
+DMP/A.LES.26.03105;Rede Compacta;11/11/2026;Pendente de Aprovação;PIE;;356ET052591;LES;64;10:00;14:00;Engelmig (Área 11) NEC e UPS;;;;NÃO
+DMP/A.LES.26.03104;Rede Compacta;11/11/2026;Pendente de Aprovação;PIE;;356ET052591;LES;64;10:00;14:00;Engelmig (Área 11) NEC e UPS;;;;NÃO
+DAC/A.LES.25.00709;Afastamento de Rede (Clientes);11/11/2026;Liberado para Documentação;FI;;015ET088229;LES;740;10:00;14:00;Start Engenharia (Área 8B, 9  e 11) NEC;;;;NÃO
+DAC/A.LES.25.00682;Afastamento de Rede (Clientes);11/11/2026;Liberado para Documentação;FI;;015ET088229;LES;740;10:00;14:00;Start Engenharia (Área 8B, 9  e 11) NEC;;;;NÃO
+DAC/A.LES.25.00177;Alteração de Carga;11/11/2026;Pendente de Aprovação;FI;;356ET093050;LES;2125;10:30;14:30;Conecta Obras Extras (Área 8B, 9 e 11) NEC;VIABILIZAR INSTALAÇÃO DE GERADOR;VERIFICAR POWER ON;;SIM - COMITÊ
+DMP/A.ABC.26.02859;Substituição de RA e CA;12/11/2026;Pendente de Aprovação;PIE;;015ET073132;ABC;28;10:00;14:00;Start Engenharia (Área 8B, 9  e 11) NEC;;;;NÃO
+DMP/A.LES.26.03156;Rede Compacta;12/11/2026;Pendente de Aprovação;PIE;;356ET059090;LES;2413;10:30;14:30;Engelmig (Área 11) NEC e UPS;VIABILIZAR INSTALAÇÃO DE GERADOR;;;SIM - COMITÊ
+DMP/A.LES.26.03105;Rede Compacta;12/11/2026;Pendente de Aprovação;PIE;;356ET059090;LES;2413;10:30;14:30;Engelmig (Área 11) NEC e UPS;VIABILIZAR INSTALAÇÃO DE GERADOR;;;SIM - COMITÊ
+DMP/A.ABC.26.00183;Substituição de RA e CA;13/11/2026;Liberado para Documentação;FI;;010ET229024;ABC;16;09:30;13:30;Start Engenharia (Área 8B, 9  e 11) NEC;;;;NÃO
+DMP/A.LES.25.04148;Substituição de Poste em Mau Estado;13/11/2026;Liberado para Documentação;FI;;025ET079057;LES;24;10:00;14:00;Start Engenharia (Área 8B, 9  e 11) NEC;;;;NÃO
+DMP/A.LES.26.03075;Rede Compacta;13/11/2026;Pendente de Aprovação;FI;;356ET160215;LES;113;10:00;14:00;Engelmig (Área 11) NEC e UPS;;;;NÃO
+DMP/A.LES.25.06132;Religador Automático;13/11/2026;Pendente de Aprovação;PIE;;ET-017752;LES;88;10:10;14:10;ZZOUT-Start Área 8B+11 (Contrato Antigo);;;;NÃO
+DMP/A.LES.21.17598;Rede Compacta;13/11/2026;Pendente de Aprovação;PIE;;356BF140256;LES;835;10:30;14:30;Engelmig (Área 11) NEC e UPS;VIABILIZAR INSTALAÇÃO DE GERADOR;;;NÃO
+DAC/A.LES.26.00598;Afastamento de Rede (Clientes);14/11/2026;Pendente de Aprovação;PIE;;353ET021648;LES;10052;10:00;14:00;Conecta Obras Extras (Área 8B, 9 e 11) NEC;DEPENDE EFETIVAÇÃO TPU's - subterraneo;;;SIM - COMITÊ
+DAC/A.LES.26.00597;Afastamento de Rede (Clientes);14/11/2026;Pendente de Aprovação;PIE;;353ET021648;LES;10052;10:00;14:00;Conecta Obras Extras (Área 8B, 9 e 11) NEC;DEPENDE EFETIVAÇÃO TPU's - subterraneo;;;SIM - COMITÊ
+DAC/A.LES.26.00596;Afastamento de Rede (Clientes);14/11/2026;Pendente de Aprovação;PIE;;353ET021648;LES;10052;10:00;14:00;Conecta Obras Extras (Área 8B, 9 e 11) NEC;DEPENDE EFETIVAÇÃO TPU's - subterraneo;;;SIM - COMITÊ
+DAC/A.LES.26.00595;Afastamento de Rede (Clientes);14/11/2026;Pendente de Aprovação;PIE;;353ET021648;LES;10052;10:00;14:00;Conecta Obras Extras (Área 8B, 9 e 11) NEC;DEPENDE EFETIVAÇÃO TPU's - subterraneo;;;SIM - COMITÊ
+DAC/A.LES.26.00587;Afastamento de Rede (Clientes);14/11/2026;Pendente de Aprovação;PIE;;353ET021648;LES;10052;10:00;14:00;Conecta Obras Extras (Área 8B, 9 e 11) NEC;DEPENDE EFETIVAÇÃO TPU's - subterraneo;;;SIM - COMITÊ
+DAC/A.LES.26.00599;Afastamento de Rede (Clientes);14/11/2026;Pendente de Aprovação;PIE;;353ET021648;LES;10052;10:00;14:00;Conecta Obras Extras (Área 8B, 9 e 11) NEC;DEPENDE EFETIVAÇÃO TPU's - subterraneo;;;SIM - COMITÊ
+DAC/A.LES.26.00600;Afastamento de Rede (Clientes);14/11/2026;Pendente de Aprovação;PIE;;353ET021648;LES;10052;10:00;14:00;Conecta Obras Extras (Área 8B, 9 e 11) NEC;DEPENDE EFETIVAÇÃO TPU's - subterraneo;;;SIM - COMITÊ
+DAC/A.LES.26.00601;Afastamento de Rede (Clientes);14/11/2026;Pendente de Aprovação;PIE;;353ET021648;LES;10052;10:00;14:00;Conecta Obras Extras (Área 8B, 9 e 11) NEC;DEPENDE EFETIVAÇÃO TPU's - subterraneo;;;SIM - COMITÊ
+DAC/A.LES.26.00602;Afastamento de Rede (Clientes);14/11/2026;Pendente de Aprovação;PIE;;353ET021648;LES;10052;10:00;14:00;Conecta Obras Extras (Área 8B, 9 e 11) NEC;DEPENDE EFETIVAÇÃO TPU's - subterraneo;;;SIM - COMITÊ
+DMP/A.LES.21.16945;Rede Compacta;15/11/2026;Liberado para Documentação;PIE;;010IP012003;LES;828;10:00;14:00;Conecta Obras Extras (Área 8B, 9 e 11) NEC;;;;NÃO
+DMP/A.LES.23.01107;Rede Compacta;15/11/2026;Liberado para Documentação;PIE;;010IP012003;LES;828;10:00;14:00;Conecta Obras Extras (Área 8B, 9 e 11) NEC;;;;NÃO
+DAC/A.LES.25.01239;Migração para Média Tensão;16/11/2026;Liberado para Documentação;PIE;;ET-026958;LES;2912;10:10;14:10;Start Engenharia (Área 8B, 9  e 11) NEC;VIABILIZAR INSTALAÇÃO DE GERADOR;;;SIM - COMITÊ
+DMP/A.ABC.26.00544;Rede Compacta;19/11/2026;Pendente de Aprovação;PIE;;010ET010168;ABC;2212;10:00;14:00;Conecta Obras Extras (Área 8B, 9 e 11) NEC;VIABILIZAR INSTALAÇÃO DE GERADOR;VERIFICAR POWER ON;;SIM - COMITÊ
+DAC/A.LES.26.01115;Ligação Nova;19/11/2026;Pendente de Aprovação;FI;;353ET073754;LES;711;10:00;14:00;Conecta Obras Extras (Área 8B, 9 e 11) NEC;VIABILIZAR INSTALAÇÃO DE GERADOR;VERIFICAR POWER ON;;NÃO
+DAC/A.LES.26.00362;Alteração de Carga;22/11/2026;Liberado para Documentação;FI;;352ET003880;LES;392;09:00;13:00;Start Engenharia (Área 8B, 9  e 11) NEC;;;;NÃO
+DMP/A.ABC.26.00542;Rede Compacta;22/11/2026;Pendente de Aprovação;PIE;;010ET006479;ABC;3020;10:00;14:00;Conecta Obras Extras (Área 8B, 9 e 11) NEC;VIABILIZAR INSTALAÇÃO DE GERADOR;VERIFICAR POWER ON;DMP/A.ABC.26.03078 - PRIORIZAR;SIM - COMITÊ
+DMP/A.ABC.26.00536;Rede Compacta;22/11/2026;Pendente de Aprovação;PIE;;010ET006479;ABC;3020;10:00;14:00;Conecta Obras Extras (Área 8B, 9 e 11) NEC;VIABILIZAR INSTALAÇÃO DE GERADOR;VERIFICAR POWER ON;DMP/A.ABC.26.03078 - PRIORIZAR;SIM - COMITÊ
+DMP/A.LES.24.02948;Substituição de Poste em Mau Estado;05/11/2026;Liberado para Documentação;FI;;352ET160098;LES;736;10:00;14:00;Start Engenharia (Área 8B, 9  e 11) NEC;Viabilizar gerador;;;NÃO
+DAC/A.ABC.26.00183;Alteração de Carga;07/11/2026;Liberado para Documentação;FI;;010ET005301;ABC;296;10:00;14:00;Start Engenharia (Área 8B, 9  e 11) NEC;;;;NÃO
+DAC/A.LES.26.00650;Alteração de Carga;07/11/2026;Liberado para Documentação;FI;;352ET161816;LES;68;09:30;13:30;Start Engenharia (Área 8B, 9  e 11) NEC;;;;NÃO
+DMP/A.LES.25.05513;Substituição de Poste em Mau Estado;07/11/2026;Liberado para Documentação;FI;;020ET034655;LES;24;13:00;16:00;Start Engenharia (Área 8B, 9  e 11) NEC;;;;NÃO
+DMP/A.LES.25.00311;Substituição de Poste em Mau Estado;05/11/2026;Liberado para Documentação;FI;;352ET050715;LES;180;09:40;13:40;Start Engenharia (Área 8B, 9  e 11) NEC;;;;NÃO
+DMP/A.LES.24.05036;Reforma de Rede Secundaria RTRI;05/11/2026;Liberado para Documentação;FI;;356ET166637;LES;1813;09:00;13:00;Start Engenharia (Área 8B, 9  e 11) NEC;Viabilizar gerador;;;SIM - COMITÊ
+DMP/A.LES.24.02147;Rede Compacta;06/11/2026;Liberado para Documentação;FI;;352ET080383;LES;496;09:40;13:40;Start Engenharia (Área 8B, 9  e 11) NEC;;;;NÃO
+DAC/A.LES.26.00584;Ligação Nova;06/11/2026;Liberado para Documentação;FI;;353ET006179;LES;189;09:30;12:30;Start Engenharia (Área 8B, 9  e 11) NEC;;;;NÃO
+DMP/A.LES.24.00374;Substituição de Poste em Mau Estado;07/11/2026;Liberado para Documentação;FI;;356ET011671;LES;428;09:30;13:30;Start Engenharia (Área 8B, 9  e 11) NEC;;;;NÃO
+DAC/A.LES.25.00116;Alteração de Carga;05/11/2026;Liberado para Documentação;FI;;353ET024222;LES;160;00:30;04:30;Start Engenharia (Área 8B, 9  e 11) NEC;;;;NÃO
+DAC/A.LES.25.00117;Alteração de Carga;05/11/2026;Liberado para Documentação;FI;;353ET024222;LES;160;00:30;04:30;Start Engenharia (Área 8B, 9  e 11) NEC;;;;NÃO
+DAC/A.ABC.26.00459;Ligação Nova;07/11/2026;Liberado para Documentação;FI;;010ET053867;ABC;136;10:00;14:00;Start Engenharia (Área 8B, 9  e 11) NEC;;;;NÃO
+DMP/A.LES.25.06549;Reforma de Rede Secundaria RTRI;06/11/2026;Liberado para Documentação;FI;;352ET035391;LES;528;00:30;04:30;Start Engenharia (Área 8B, 9  e 11) NEC;;;;NÃO
+DAC/A.LES.26.01152;Alteração de Carga;05/11/2026;Liberado para Documentação;FI;;356BF057263;LES;2676;10:30;14:30;Conecta Obras Extras (Área 8B, 9 e 11) NEC;Viabilizar gerador;;;SIM - COMITÊ
+DMP/A.LES.26.05209;Substituição de Poste em Mau Estado;07/11/2026;Liberado para Documentação;FI;;352ET030147;LES;460;09:40;13:40;Start Engenharia (Área 8B, 9  e 11) NEC;;;;NÃO
